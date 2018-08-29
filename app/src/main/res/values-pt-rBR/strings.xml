@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_titulo" translatable="false">Calculadora</string>
+    <string name="label_peso" translatable="false">Seu peso</string>
+    <string name="hint_peso" translatable="false">Exemplo: 75.5</string>
+    <string name="label_altura" translatable="false">Sua altura</string>
+    <string name="hint_altura" translatable="false">Exemplo: 1.71</string>
+    <string name="botao_calcular" translatable="false">Calcular</string>
+    <string name="botao_limpar" translatable="false">Limpar</string>
+</resources>

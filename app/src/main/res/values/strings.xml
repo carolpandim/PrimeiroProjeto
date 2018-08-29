@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">PrimeiroProjeto</string>
+    <string name="label_titulo">Calculator</string>
+    <string name="label_peso">Your weigth</string>
+    <string name="hint_peso">Example: 75.5</string>
+    <string name="label_altura">Your heigth</string>
+    <string name="hint_altura">Example: 1.71</string>
+    <string name="botao_calcular">Calculate</string>
+    <string name="botao_limpar">Clean</string>
+</resources>
