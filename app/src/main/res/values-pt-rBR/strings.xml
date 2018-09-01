@@ -7,4 +7,13 @@
     <string name="hint_altura" translatable="false">Exemplo: 1.71</string>
     <string name="botao_calcular" translatable="false">Calcular</string>
     <string name="botao_limpar" translatable="false">Limpar</string>
+    <string name="label_titulo_resultado">Seu IMC é:</string>
+    <string name="label_rodape">Desenvolvido pela Carol</string>
+    <string name="label_magreza">Magreza</string>
+    <string name="label_peso_ideal">Peso Ideal</string>
+    <string name="label_abaixo_peso">Abaixo do Peso</string>
+    <string name="label_levemente_acima">Levemente Acima do Peso</string>
+    <string name="label_obesidade1">Obesidade 1</string>
+    <string name="label_obesidade2">Obeisdade 2</string>
+    <string name="label_obesidade3">Obesidade 3</string>
 </resources>

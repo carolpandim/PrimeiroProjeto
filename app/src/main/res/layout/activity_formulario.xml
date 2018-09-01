@@ -17,23 +17,27 @@
         style="@style/label"/>
 
     <EditText
-        android:hint="@string/hint_peso"
-        style="@style/input" />
+        android:id="@+id/inputPeso"
+        style="@style/input"
+        android:hint="@string/hint_peso" />
 
     <TextView
         android:text="@string/label_altura"
         style="@style/label"/>
 
     <EditText
-        android:hint="@string/hint_altura"
-        style="@style/input"  />
-    
-    <Button
-        android:text="@string/botao_calcular"
-        style="@style/botao" />
+        android:id="@+id/inputAltura"
+        style="@style/input"
+        android:hint="@string/hint_altura" />
 
     <Button
-        android:text="@string/botao_limpar"
-        style="@style/botao" />
+        android:id="@+id/btCalcular"
+        style="@style/botao"
+        android:text="@string/botao_calcular" />
+
+    <Button
+        android:id="@+id/btLimpar"
+        style="@style/botao"
+        android:text="@string/botao_limpar" />
 
 </LinearLayout>
